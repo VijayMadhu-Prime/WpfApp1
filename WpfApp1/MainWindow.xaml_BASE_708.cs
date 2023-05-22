@@ -20,7 +20,6 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
-        //Test By Sowndaiyan
         public MainWindow()
         {
             InitializeComponent();
